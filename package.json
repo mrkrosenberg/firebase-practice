@@ -23,7 +23,7 @@
     "firebase": "^6.2.3",
     "font-awesome": "^4.7.0",
     "install": "^0.12.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "materialize-css": "^1.0.0",
     "npm": "^6.9.2",
     "rxjs": "~6.4.0",
